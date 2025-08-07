@@ -1,0 +1,96 @@
+2025-08-04 14:39:49,007 - root - INFO - **********Test_001_Login************
+2025-08-04 14:39:49,007 - root - INFO - **********Verify Homepage title************
+2025-08-04 14:39:49,988 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-04 14:39:51,277 - root - INFO - **********Verify login test started************
+2025-08-04 14:39:52,409 - root - ERROR - **********Login Test is Failed************
+2025-08-04 14:39:54,792 - root - INFO - **********Verify Logout Test************
+2025-08-04 14:40:01,819 - root - INFO - **********Verify Logout Test- Passed************
+2025-08-04 14:42:02,953 - root - INFO - **********Test_001_Login************
+2025-08-04 14:42:02,955 - root - INFO - **********Verify Homepage title************
+2025-08-04 14:42:03,569 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-04 14:42:04,823 - root - INFO - **********Verify login test started************
+2025-08-04 14:42:06,558 - root - INFO - **********Login Test is Passed************
+2025-08-04 14:42:08,192 - root - INFO - **********Verify Logout Test************
+2025-08-04 14:42:15,213 - root - INFO - **********Verify Logout Test- Passed************
+2025-08-05 08:50:45,017 - root - INFO - **********Test_001_Login************
+2025-08-05 08:50:45,017 - root - INFO - **********Verify Homepage title************
+2025-08-05 08:50:46,068 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-05 08:50:47,721 - root - INFO - **********Verify login test started************
+2025-08-05 08:50:49,716 - root - ERROR - **********Login Test is Failed************
+2025-08-05 08:50:51,558 - root - INFO - **********Verify Logout Test************
+2025-08-05 09:29:01,569 - root - INFO - **********Test_001_Login************
+2025-08-05 09:29:01,569 - root - INFO - **********Verify Homepage title************
+2025-08-05 09:29:03,052 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-05 09:29:04,511 - root - INFO - **********Verify login test started************
+2025-08-05 09:29:06,164 - root - ERROR - **********Login Test is Failed************
+2025-08-05 09:29:08,023 - root - INFO - **********Verify Logout Test************
+2025-08-05 09:29:47,031 - root - INFO - **********Test_001_Login************
+2025-08-05 09:29:47,031 - root - INFO - **********Verify Homepage title************
+2025-08-05 09:29:47,892 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-05 09:29:49,332 - root - INFO - **********Verify login test started************
+2025-08-05 09:29:50,974 - root - ERROR - **********Login Test is Failed************
+2025-08-05 09:29:52,858 - root - INFO - **********Verify Logout Test************
+2025-08-05 09:34:09,260 - root - INFO - **********Test_001_Login************
+2025-08-05 09:34:09,260 - root - INFO - **********Verify Homepage title************
+2025-08-05 09:34:09,991 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-05 09:34:11,515 - root - INFO - **********Verify login test started************
+2025-08-05 09:34:15,401 - root - INFO - **********Verify Logout Test************
+2025-08-05 09:34:56,873 - root - INFO - **********Test_001_Login************
+2025-08-05 09:34:56,873 - root - INFO - **********Verify Homepage title************
+2025-08-05 09:34:57,737 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-05 09:34:59,256 - root - INFO - **********Verify login test started************
+2025-08-05 09:35:02,892 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:01:37,404 - root - INFO - **********Verify login test started************
+2025-08-06 14:01:37,581 - root - INFO - **********Test_001_Login************
+2025-08-06 14:01:37,582 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:01:37,593 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:01:38,749 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:08:13,731 - root - INFO - **********Test_001_Login************
+2025-08-06 14:08:13,731 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:08:14,039 - root - INFO - **********Verify login test started************
+2025-08-06 14:08:14,098 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:08:14,563 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:09:59,861 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\shinu\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-08-06 14:11:11,038 - undetected_chromedriver.patcher - INFO - patching driver executable C:\Users\shinu\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-08-06 14:19:53,074 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:19:53,279 - root - INFO - **********Test_001_Login************
+2025-08-06 14:19:53,281 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:19:53,284 - root - INFO - **********Verify login test started************
+2025-08-06 14:19:54,100 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:25:05,640 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:25:05,697 - root - INFO - **********Verify login test started************
+2025-08-06 14:25:05,823 - root - INFO - **********Test_001_Login************
+2025-08-06 14:25:05,823 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:25:08,023 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:26:36,866 - root - INFO - **********Verify login test started************
+2025-08-06 14:26:36,912 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:26:37,130 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:26:38,752 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:27:52,754 - root - INFO - **********Verify login test started************
+2025-08-06 14:27:52,795 - root - INFO - **********Test_001_Login************
+2025-08-06 14:27:52,795 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:27:52,842 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:27:53,619 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:29:56,840 - root - INFO - **********Verify login test started************
+2025-08-06 14:29:57,010 - root - INFO - **********Test_001_Login************
+2025-08-06 14:29:57,011 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:29:57,141 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:29:58,282 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:32:17,979 - root - INFO - **********Test_001_Login************
+2025-08-06 14:32:17,979 - root - INFO - **********Verify Homepage title************
+2025-08-06 14:32:19,899 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-06 14:32:21,369 - root - INFO - **********Verify login test started************
+2025-08-06 14:32:24,753 - root - INFO - **********Verify Logout Test************
+2025-08-06 14:33:03,374 - root - INFO - **********Verify login test started************
+2025-08-06 14:35:22,105 - root - INFO - **********Verify login test started************
+2025-08-06 14:43:49,376 - root - INFO - **********Verify login test started************
+2025-08-06 14:45:52,185 - root - INFO - **********Verify login test started************
+2025-08-07 09:40:05,654 - root - INFO - **********Test_001_Login************
+2025-08-07 09:40:05,655 - root - INFO - **********Verify Homepage title************
+2025-08-07 09:40:05,710 - root - INFO - **********Verify Logout Test************
+*****
+2025-08-07 09:40:06,765 - root - INFO - **********Verify Homepage title test is passed************
+2025-08-07 09:40:27,132 - root - INFO - **********Verify login test started************
+2025-08-07 09:40:39,851 - root - INFO - **********Verify Logout Test************
+2025-08-07 09:51:51,576 - root - INFO - **********Verify login test started************
+2025-08-07 09:52:03,746 - root - INFO - **********Verify Logout Test************
